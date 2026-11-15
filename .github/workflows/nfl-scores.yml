@@ -39,5 +39,6 @@ jobs:
           git add scores-output/nfl-scores.xml scores-output/nfl-scores.xml.gz
           if ! git diff --cached --quiet; then
             git commit -m "Update NFL final scores"
+            git pull --rebase origin main
             git push
           fi
