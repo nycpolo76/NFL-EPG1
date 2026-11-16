@@ -1,37 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="NFL Final Scores">
-  <channel id="teamarr-event-401873053">
-    <display-name>New England Patriots v Detroit Lions</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/NewEnglandPatriots/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </channel>
-  <channel id="teamarr-event-401873054">
-    <display-name>Buffalo Bills @ New York Jets</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/BuffaloBills/NewYorkJets/logo.png?style=4&amp;fallback=true" />
-  </channel>
-  <channel id="teamarr-event-401873055">
-    <display-name>Carolina Panthers @ New Orleans Saints</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/CarolinaPanthers/NewOrleansSaints/logo.png?style=4&amp;fallback=true" />
-  </channel>
-  <channel id="teamarr-event-401873056">
-    <display-name>Houston Texans @ Cleveland Browns</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/HoustonTexans/ClevelandBrowns/logo.png?style=4&amp;fallback=true" />
-  </channel>
-  <channel id="teamarr-event-401873057">
-    <display-name>Jacksonville Jaguars @ Tennessee Titans</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/JacksonvilleJaguars/TennesseeTitans/logo.png?style=4&amp;fallback=true" />
-  </channel>
-  <channel id="teamarr-event-401873058">
-    <display-name>Kansas City Chiefs @ Atlanta Falcons</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/AtlantaFalcons/logo.png?style=4&amp;fallback=true" />
-  </channel>
-  <channel id="teamarr-event-401873059">
-    <display-name>Miami Dolphins @ Indianapolis Colts</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/MiamiDolphins/IndianapolisColts/logo.png?style=4&amp;fallback=true" />
-  </channel>
-  <channel id="teamarr-event-401873060">
-    <display-name>Minnesota Vikings @ Green Bay Packers</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/MinnesotaVikings/GreenBayPackers/logo.png?style=4&amp;fallback=true" />
-  </channel>
   <channel id="teamarr-event-401873061">
     <display-name>Los Angeles Rams @ Arizona Cardinals</display-name>
     <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesRams/ArizonaCardinals/logo.png?style=4&amp;fallback=true" />
@@ -48,537 +16,9 @@
     <display-name>Pittsburgh Steelers @ Cincinnati Bengals</display-name>
     <icon src="https://game-thumbs.swvn.io/nfl/PittsburghSteelers/CincinnatiBengals/logo.png?style=4&amp;fallback=true" />
   </channel>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873053">
-    <title lang="en">Today @ 9:30 AM EST: Patriots @ Lions</title>
-    <desc lang="en">🏈 | 📺 TV: Fox | 🏟️ Venue: FC Bayern Munich Stadium, Munich | 📊 Betting Odds: | 🎲 Odds via</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/NewEnglandPatriots/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115143000 +0000" channel="teamarr-event-401873053">
-    <title lang="en">Today @ 9:30 AM EST: Patriots @ Lions</title>
-    <desc lang="en">🏈 | 📺 TV: Fox | 🏟️ Venue: FC Bayern Munich Stadium, Munich | 📊 Betting Odds: | 🎲 Odds via</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/NewEnglandPatriots/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115143000 +0000" stop="20261115180000 +0000" channel="teamarr-event-401873053">
-    <title lang="en">New England Patriots @ Detroit Lions</title>
-    <sub-title lang="en">Sun 9:30 AM EST | Fox | FC Bayern Munich Stadium | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏆 NFL Munich Game | 🏈 New England Patriots @ Detroit Lions | 📊 5-4 / 6-2 | 📺 Fox</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/NewEnglandPatriots/DetroitLions/logo.png?style=4&amp;fallback=true" />
-    <live />
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261116000000 +0000" channel="teamarr-event-401873053">
-    <title lang="en">FINAL: Patriots 10 – Lions 35</title>
-    <desc lang="en">New England Patriots 10, Detroit Lions 35. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/NewEnglandPatriots/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873053">
-    <title lang="en">FINAL: Patriots 10 – Lions 35</title>
-    <desc lang="en">New England Patriots 10, Detroit Lions 35. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/NewEnglandPatriots/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873053">
-    <title lang="en">FINAL: Patriots 10 – Lions 35</title>
-    <desc lang="en">New England Patriots 10, Detroit Lions 35. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/NewEnglandPatriots/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873053">
-    <title lang="en">FINAL: Patriots 10 – Lions 35</title>
-    <desc lang="en">New England Patriots 10, Detroit Lions 35. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/NewEnglandPatriots/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873054">
-    <title lang="en">Today @ 1:00 PM EST: Bills @ Jets</title>
-    <desc lang="en">The Bills visit the Jets with a 7-1 record and a chance at their best start since 1991</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/BuffaloBills/NewYorkJets/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873054">
-    <title lang="en">Today @ 1:00 PM EST: Bills @ Jets</title>
-    <desc lang="en">The Bills visit the Jets with a 7-1 record and a chance at their best start since 1991</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/BuffaloBills/NewYorkJets/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="teamarr-event-401873054">
-    <title lang="en">Today @ 1:00 PM EST: Bills @ Jets</title>
-    <desc lang="en">The Bills visit the Jets with a 7-1 record and a chance at their best start since 1991</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/BuffaloBills/NewYorkJets/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115213000 +0000" channel="teamarr-event-401873054">
-    <title lang="en">Buffalo Bills @ New York Jets</title>
-    <sub-title lang="en">Sun 1:00 PM EST | CBS | MetLife Stadium | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 The Bills visit the Jets with a 7-1 record and a chance at their best start since 1991 | 📊 Bills (7-1) @ Jets (2-7) | 📺 CBS</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/BuffaloBills/NewYorkJets/logo.png?style=4&amp;fallback=true" />
-    <live />
-  </programme>
-  <programme start="20261115213000 +0000" stop="20261116000000 +0000" channel="teamarr-event-401873054">
-    <title lang="en">FINAL: Bills 31 – Jets 12</title>
-    <desc lang="en">Buffalo Bills 31, New York Jets 12. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/BuffaloBills/NewYorkJets/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873054">
-    <title lang="en">FINAL: Bills 31 – Jets 12</title>
-    <desc lang="en">Buffalo Bills 31, New York Jets 12. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/BuffaloBills/NewYorkJets/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873054">
-    <title lang="en">FINAL: Bills 31 – Jets 12</title>
-    <desc lang="en">Buffalo Bills 31, New York Jets 12. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/BuffaloBills/NewYorkJets/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873054">
-    <title lang="en">FINAL: Bills 31 – Jets 12</title>
-    <desc lang="en">Buffalo Bills 31, New York Jets 12. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/BuffaloBills/NewYorkJets/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873055">
-    <title lang="en">Today @ 1:00 PM EST: Panthers @ Saints</title>
-    <desc lang="en">Despite slow starts, the Panthers and Saints meet with a chance to become sole leaders of NFC South</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CarolinaPanthers/NewOrleansSaints/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873055">
-    <title lang="en">Today @ 1:00 PM EST: Panthers @ Saints</title>
-    <desc lang="en">Despite slow starts, the Panthers and Saints meet with a chance to become sole leaders of NFC South</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CarolinaPanthers/NewOrleansSaints/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="teamarr-event-401873055">
-    <title lang="en">Today @ 1:00 PM EST: Panthers @ Saints</title>
-    <desc lang="en">Despite slow starts, the Panthers and Saints meet with a chance to become sole leaders of NFC South</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CarolinaPanthers/NewOrleansSaints/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115213000 +0000" channel="teamarr-event-401873055">
-    <title lang="en">Carolina Panthers @ New Orleans Saints</title>
-    <sub-title lang="en">Sun 1:00 PM EST | Fox | Caesars Superdome | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 Despite slow starts, the Panthers and Saints meet with a chance to become sole leaders of NFC South | 📊 Panthers (3-5) @ Saints (3-5) | 📺 Fox</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CarolinaPanthers/NewOrleansSaints/logo.png?style=4&amp;fallback=true" />
-    <live />
-  </programme>
-  <programme start="20261115213000 +0000" stop="20261116000000 +0000" channel="teamarr-event-401873055">
-    <title lang="en">FINAL: Panthers 20 – Saints 17</title>
-    <desc lang="en">Carolina Panthers 20, New Orleans Saints 17. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CarolinaPanthers/NewOrleansSaints/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873055">
-    <title lang="en">FINAL: Panthers 20 – Saints 17</title>
-    <desc lang="en">Carolina Panthers 20, New Orleans Saints 17. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CarolinaPanthers/NewOrleansSaints/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873055">
-    <title lang="en">FINAL: Panthers 20 – Saints 17</title>
-    <desc lang="en">Carolina Panthers 20, New Orleans Saints 17. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CarolinaPanthers/NewOrleansSaints/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873055">
-    <title lang="en">FINAL: Panthers 20 – Saints 17</title>
-    <desc lang="en">Carolina Panthers 20, New Orleans Saints 17. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CarolinaPanthers/NewOrleansSaints/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873056">
-    <title lang="en">Today @ 1:00 PM EST: Texans @ Browns</title>
-    <desc lang="en">Deshaun Watson downplays facing Texans as Browns try to stay unbeaten at home, in playoff picture</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/HoustonTexans/ClevelandBrowns/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873056">
-    <title lang="en">Today @ 1:00 PM EST: Texans @ Browns</title>
-    <desc lang="en">Deshaun Watson downplays facing Texans as Browns try to stay unbeaten at home, in playoff picture</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/HoustonTexans/ClevelandBrowns/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="teamarr-event-401873056">
-    <title lang="en">Today @ 1:00 PM EST: Texans @ Browns</title>
-    <desc lang="en">Deshaun Watson downplays facing Texans as Browns try to stay unbeaten at home, in playoff picture</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/HoustonTexans/ClevelandBrowns/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115213000 +0000" channel="teamarr-event-401873056">
-    <title lang="en">Houston Texans @ Cleveland Browns</title>
-    <sub-title lang="en">Sun 1:00 PM EST | Fox | Huntington Bank Field | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 Deshaun Watson downplays facing Texans as Browns try to stay unbeaten at home, in playoff picture | 📊 Texans (3-5) @ Browns (5-4) | 📺 Fox</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/HoustonTexans/ClevelandBrowns/logo.png?style=4&amp;fallback=true" />
-    <live />
-  </programme>
-  <programme start="20261115213000 +0000" stop="20261116000000 +0000" channel="teamarr-event-401873056">
-    <title lang="en">FINAL: Texans 24 – Browns 27</title>
-    <desc lang="en">Houston Texans 24, Cleveland Browns 27. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/HoustonTexans/ClevelandBrowns/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873056">
-    <title lang="en">FINAL: Texans 24 – Browns 27</title>
-    <desc lang="en">Houston Texans 24, Cleveland Browns 27. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/HoustonTexans/ClevelandBrowns/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873056">
-    <title lang="en">FINAL: Texans 24 – Browns 27</title>
-    <desc lang="en">Houston Texans 24, Cleveland Browns 27. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/HoustonTexans/ClevelandBrowns/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873056">
-    <title lang="en">FINAL: Texans 24 – Browns 27</title>
-    <desc lang="en">Houston Texans 24, Cleveland Browns 27. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/HoustonTexans/ClevelandBrowns/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873057">
-    <title lang="en">Today @ 1:00 PM EST: Jaguars @ Titans</title>
-    <desc lang="en">Trevor Lawrence sees a 'shot' as the Jaguars add 3 defenders in trades before visiting Tennessee</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/JacksonvilleJaguars/TennesseeTitans/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873057">
-    <title lang="en">Today @ 1:00 PM EST: Jaguars @ Titans</title>
-    <desc lang="en">Trevor Lawrence sees a 'shot' as the Jaguars add 3 defenders in trades before visiting Tennessee</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/JacksonvilleJaguars/TennesseeTitans/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="teamarr-event-401873057">
-    <title lang="en">Today @ 1:00 PM EST: Jaguars @ Titans</title>
-    <desc lang="en">Trevor Lawrence sees a 'shot' as the Jaguars add 3 defenders in trades before visiting Tennessee</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/JacksonvilleJaguars/TennesseeTitans/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115213000 +0000" channel="teamarr-event-401873057">
-    <title lang="en">Jacksonville Jaguars @ Tennessee Titans</title>
-    <sub-title lang="en">Sun 1:00 PM EST | Fox | Nissan Stadium | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 Trevor Lawrence sees a 'shot' as the Jaguars add 3 defenders in trades before visiting Tennessee | 📊 Jaguars (6-2) @ Titans (1-7) | 📺 Fox</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/JacksonvilleJaguars/TennesseeTitans/logo.png?style=4&amp;fallback=true" />
-    <live />
-  </programme>
-  <programme start="20261115213000 +0000" stop="20261116000000 +0000" channel="teamarr-event-401873057">
-    <title lang="en">FINAL: Jaguars 40 – Titans 23</title>
-    <desc lang="en">Jacksonville Jaguars 40, Tennessee Titans 23. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/JacksonvilleJaguars/TennesseeTitans/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873057">
-    <title lang="en">FINAL: Jaguars 40 – Titans 23</title>
-    <desc lang="en">Jacksonville Jaguars 40, Tennessee Titans 23. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/JacksonvilleJaguars/TennesseeTitans/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873057">
-    <title lang="en">FINAL: Jaguars 40 – Titans 23</title>
-    <desc lang="en">Jacksonville Jaguars 40, Tennessee Titans 23. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/JacksonvilleJaguars/TennesseeTitans/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873057">
-    <title lang="en">FINAL: Jaguars 40 – Titans 23</title>
-    <desc lang="en">Jacksonville Jaguars 40, Tennessee Titans 23. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/JacksonvilleJaguars/TennesseeTitans/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873058">
-    <title lang="en">Today @ 1:00 PM EST: Chiefs @ Falcons</title>
-    <desc lang="en">NFL rushing leaders in spotlight as Kenneth Walker III and Chiefs face Bijan Robinson and Falcons</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/AtlantaFalcons/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873058">
-    <title lang="en">Today @ 1:00 PM EST: Chiefs @ Falcons</title>
-    <desc lang="en">NFL rushing leaders in spotlight as Kenneth Walker III and Chiefs face Bijan Robinson and Falcons</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/AtlantaFalcons/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="teamarr-event-401873058">
-    <title lang="en">Today @ 1:00 PM EST: Chiefs @ Falcons</title>
-    <desc lang="en">NFL rushing leaders in spotlight as Kenneth Walker III and Chiefs face Bijan Robinson and Falcons</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/AtlantaFalcons/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115213000 +0000" channel="teamarr-event-401873058">
-    <title lang="en">Kansas City Chiefs @ Atlanta Falcons</title>
-    <sub-title lang="en">Sun 1:00 PM EST | CBS | Mercedes-Benz Stadium | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 NFL rushing leaders in spotlight as Kenneth Walker III and Chiefs face Bijan Robinson and Falcons | 📊 Chiefs (6-2) @ Falcons (3-6) | 📺 CBS</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/AtlantaFalcons/logo.png?style=4&amp;fallback=true" />
-    <live />
-  </programme>
-  <programme start="20261115213000 +0000" stop="20261116000000 +0000" channel="teamarr-event-401873058">
-    <title lang="en">FINAL: Chiefs 35 – Falcons 13</title>
-    <desc lang="en">Kansas City Chiefs 35, Atlanta Falcons 13. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/AtlantaFalcons/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873058">
-    <title lang="en">FINAL: Chiefs 35 – Falcons 13</title>
-    <desc lang="en">Kansas City Chiefs 35, Atlanta Falcons 13. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/AtlantaFalcons/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873058">
-    <title lang="en">FINAL: Chiefs 35 – Falcons 13</title>
-    <desc lang="en">Kansas City Chiefs 35, Atlanta Falcons 13. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/AtlantaFalcons/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873058">
-    <title lang="en">FINAL: Chiefs 35 – Falcons 13</title>
-    <desc lang="en">Kansas City Chiefs 35, Atlanta Falcons 13. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/AtlantaFalcons/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873059">
-    <title lang="en">Today @ 1:00 PM EST: Dolphins @ Colts</title>
-    <desc lang="en">QB Kyle McCord eager to make his 1st NFL start as Dolphins and Colts meet in battle of reeling teams</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MiamiDolphins/IndianapolisColts/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873059">
-    <title lang="en">Today @ 1:00 PM EST: Dolphins @ Colts</title>
-    <desc lang="en">QB Kyle McCord eager to make his 1st NFL start as Dolphins and Colts meet in battle of reeling teams</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MiamiDolphins/IndianapolisColts/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="teamarr-event-401873059">
-    <title lang="en">Today @ 1:00 PM EST: Dolphins @ Colts</title>
-    <desc lang="en">QB Kyle McCord eager to make his 1st NFL start as Dolphins and Colts meet in battle of reeling teams</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MiamiDolphins/IndianapolisColts/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115213000 +0000" channel="teamarr-event-401873059">
-    <title lang="en">Miami Dolphins @ Indianapolis Colts</title>
-    <sub-title lang="en">Sun 1:00 PM EST | CBS | Lucas Oil Stadium | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 QB Kyle McCord eager to make his 1st NFL start as Dolphins and Colts meet in battle of reeling teams | 📊 Dolphins (1-7) @ Colts (2-7) | 📺 CBS</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MiamiDolphins/IndianapolisColts/logo.png?style=4&amp;fallback=true" />
-    <live />
-  </programme>
-  <programme start="20261115213000 +0000" stop="20261116000000 +0000" channel="teamarr-event-401873059">
-    <title lang="en">FINAL: Dolphins 22 – Colts 24</title>
-    <desc lang="en">Miami Dolphins 22, Indianapolis Colts 24. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MiamiDolphins/IndianapolisColts/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873059">
-    <title lang="en">FINAL: Dolphins 22 – Colts 24</title>
-    <desc lang="en">Miami Dolphins 22, Indianapolis Colts 24. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MiamiDolphins/IndianapolisColts/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873059">
-    <title lang="en">FINAL: Dolphins 22 – Colts 24</title>
-    <desc lang="en">Miami Dolphins 22, Indianapolis Colts 24. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MiamiDolphins/IndianapolisColts/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873059">
-    <title lang="en">FINAL: Dolphins 22 – Colts 24</title>
-    <desc lang="en">Miami Dolphins 22, Indianapolis Colts 24. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MiamiDolphins/IndianapolisColts/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873060">
-    <title lang="en">Today @ 1:00 PM EST: Vikings @ Packers</title>
-    <desc lang="en">Kirk Cousins begins his 2nd stint with Vikings as they face the Packers in an NFC North showdown</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MinnesotaVikings/GreenBayPackers/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873060">
-    <title lang="en">Today @ 1:00 PM EST: Vikings @ Packers</title>
-    <desc lang="en">Kirk Cousins begins his 2nd stint with Vikings as they face the Packers in an NFC North showdown</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MinnesotaVikings/GreenBayPackers/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="teamarr-event-401873060">
-    <title lang="en">Today @ 1:00 PM EST: Vikings @ Packers</title>
-    <desc lang="en">Kirk Cousins begins his 2nd stint with Vikings as they face the Packers in an NFC North showdown</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MinnesotaVikings/GreenBayPackers/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115213000 +0000" channel="teamarr-event-401873060">
-    <title lang="en">Minnesota Vikings @ Green Bay Packers</title>
-    <sub-title lang="en">Sun 1:00 PM EST | Fox | Lambeau Field | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 Kirk Cousins begins his 2nd stint with Vikings as they face the Packers in an NFC North showdown | 📊 Vikings (6-2) @ Packers (6-3) | 📺 Fox</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MinnesotaVikings/GreenBayPackers/logo.png?style=4&amp;fallback=true" />
-    <live />
-  </programme>
-  <programme start="20261115213000 +0000" stop="20261116000000 +0000" channel="teamarr-event-401873060">
-    <title lang="en">FINAL: Vikings 30 – Packers 10</title>
-    <desc lang="en">Minnesota Vikings 30, Green Bay Packers 10. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MinnesotaVikings/GreenBayPackers/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873060">
-    <title lang="en">FINAL: Vikings 30 – Packers 10</title>
-    <desc lang="en">Minnesota Vikings 30, Green Bay Packers 10. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MinnesotaVikings/GreenBayPackers/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873060">
-    <title lang="en">FINAL: Vikings 30 – Packers 10</title>
-    <desc lang="en">Minnesota Vikings 30, Green Bay Packers 10. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MinnesotaVikings/GreenBayPackers/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873060">
-    <title lang="en">FINAL: Vikings 30 – Packers 10</title>
-    <desc lang="en">Minnesota Vikings 30, Green Bay Packers 10. Final. Score checked 2026-11-15 21:42 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/MinnesotaVikings/GreenBayPackers/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873061">
+  <programme start="20261115160021 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873061">
     <title lang="en">Today @ 4:05 PM EST: Rams @ Cardinals</title>
-    <desc lang="en">Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesRams/ArizonaCardinals/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873061">
-    <title lang="en">Today @ 4:05 PM EST: Rams @ Cardinals</title>
-    <desc lang="en">Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense</desc>
+    <desc lang="en">🏈 | 📺 TV: CBS | 🏟️ Venue: State Farm Stadium, Glendale, AZ | 📊 Betting Odds: | 🎲 Odds via</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
@@ -586,7 +26,7 @@
   </programme>
   <programme start="20261115170000 +0000" stop="20261115210500 +0000" channel="teamarr-event-401873061">
     <title lang="en">Today @ 4:05 PM EST: Rams @ Cardinals</title>
-    <desc lang="en">Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense</desc>
+    <desc lang="en">🏈 | 📺 TV: CBS | 🏟️ Venue: State Farm Stadium, Glendale, AZ | 📊 Betting Odds: | 🎲 Odds via</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
@@ -603,40 +43,40 @@
     <live />
   </programme>
   <programme start="20261116003500 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873061">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Los Angeles Rams @ Arizona Cardinals | ⏳ Awaiting the official final result | 🏟️ State Farm Stadium</desc>
+    <title lang="en">FINAL: Rams 34 – Cardinals 6</title>
+    <desc lang="en">Los Angeles Rams 34, Arizona Cardinals 6. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
     <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesRams/ArizonaCardinals/logo.png?style=4&amp;fallback=true" />
   </programme>
   <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873061">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Los Angeles Rams @ Arizona Cardinals | ⏳ Awaiting the official final result | 🏟️ State Farm Stadium</desc>
+    <title lang="en">FINAL: Rams 34 – Cardinals 6</title>
+    <desc lang="en">Los Angeles Rams 34, Arizona Cardinals 6. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
     <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesRams/ArizonaCardinals/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873061">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Los Angeles Rams @ Arizona Cardinals | ⏳ Awaiting the official final result | 🏟️ State Farm Stadium</desc>
+  <programme start="20261116120000 +0000" stop="20261116180000 +0000" channel="teamarr-event-401873061">
+    <title lang="en">FINAL: Rams 34 – Cardinals 6</title>
+    <desc lang="en">Los Angeles Rams 34, Arizona Cardinals 6. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
     <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesRams/ArizonaCardinals/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873062">
-    <title lang="en">Today @ 4:05 PM EST: Seahawks @ Raiders</title>
-    <desc lang="en">Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense</desc>
+  <programme start="20261116180000 +0000" stop="20261116220021 +0000" channel="teamarr-event-401873061">
+    <title lang="en">FINAL: Rams 34 – Cardinals 6</title>
+    <desc lang="en">Los Angeles Rams 34, Arizona Cardinals 6. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/SeattleSeahawks/LasVegasRaiders/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesRams/ArizonaCardinals/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261115110000 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873062">
+  <programme start="20261115160021 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873062">
     <title lang="en">Today @ 4:05 PM EST: Seahawks @ Raiders</title>
-    <desc lang="en">Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense</desc>
+    <desc lang="en">🏈 | 📺 TV: CBS | 🏟️ Venue: Allegiant Stadium, Las Vegas, NV | 📊 Betting Odds: | 🎲 Odds via</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
@@ -644,7 +84,7 @@
   </programme>
   <programme start="20261115170000 +0000" stop="20261115210500 +0000" channel="teamarr-event-401873062">
     <title lang="en">Today @ 4:05 PM EST: Seahawks @ Raiders</title>
-    <desc lang="en">Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense</desc>
+    <desc lang="en">🏈 | 📺 TV: CBS | 🏟️ Venue: Allegiant Stadium, Las Vegas, NV | 📊 Betting Odds: | 🎲 Odds via</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
@@ -661,40 +101,40 @@
     <live />
   </programme>
   <programme start="20261116003500 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873062">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Seattle Seahawks @ Las Vegas Raiders | ⏳ Awaiting the official final result | 🏟️ Allegiant Stadium</desc>
+    <title lang="en">FINAL: Seahawks 21 – Raiders 13</title>
+    <desc lang="en">Seattle Seahawks 21, Las Vegas Raiders 13. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
     <icon src="https://game-thumbs.swvn.io/nfl/SeattleSeahawks/LasVegasRaiders/logo.png?style=4&amp;fallback=true" />
   </programme>
   <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873062">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Seattle Seahawks @ Las Vegas Raiders | ⏳ Awaiting the official final result | 🏟️ Allegiant Stadium</desc>
+    <title lang="en">FINAL: Seahawks 21 – Raiders 13</title>
+    <desc lang="en">Seattle Seahawks 21, Las Vegas Raiders 13. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
     <icon src="https://game-thumbs.swvn.io/nfl/SeattleSeahawks/LasVegasRaiders/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873062">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Seattle Seahawks @ Las Vegas Raiders | ⏳ Awaiting the official final result | 🏟️ Allegiant Stadium</desc>
+  <programme start="20261116120000 +0000" stop="20261116180000 +0000" channel="teamarr-event-401873062">
+    <title lang="en">FINAL: Seahawks 21 – Raiders 13</title>
+    <desc lang="en">Seattle Seahawks 21, Las Vegas Raiders 13. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
     <icon src="https://game-thumbs.swvn.io/nfl/SeattleSeahawks/LasVegasRaiders/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873063">
-    <title lang="en">Today @ 4:25 PM EST: 49ers @ Cowboys</title>
-    <desc lang="en">Cowboys host NFC-leading 49ers as they seek elusive winning streak under Schottenheimer</desc>
+  <programme start="20261116180000 +0000" stop="20261116220021 +0000" channel="teamarr-event-401873062">
+    <title lang="en">FINAL: Seahawks 21 – Raiders 13</title>
+    <desc lang="en">Seattle Seahawks 21, Las Vegas Raiders 13. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/SanFrancisco49ers/DallasCowboys/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/SeattleSeahawks/LasVegasRaiders/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261115110000 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873063">
+  <programme start="20261115160021 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873063">
     <title lang="en">Today @ 4:25 PM EST: 49ers @ Cowboys</title>
-    <desc lang="en">Cowboys host NFC-leading 49ers as they seek elusive winning streak under Schottenheimer</desc>
+    <desc lang="en">🏈 | 📺 TV: Fox | 🏟️ Venue: AT&amp;T Stadium, Arlington, TX | 📊 Betting Odds: | 🎲 Odds via</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
@@ -702,7 +142,7 @@
   </programme>
   <programme start="20261115170000 +0000" stop="20261115212500 +0000" channel="teamarr-event-401873063">
     <title lang="en">Today @ 4:25 PM EST: 49ers @ Cowboys</title>
-    <desc lang="en">Cowboys host NFC-leading 49ers as they seek elusive winning streak under Schottenheimer</desc>
+    <desc lang="en">🏈 | 📺 TV: Fox | 🏟️ Venue: AT&amp;T Stadium, Arlington, TX | 📊 Betting Odds: | 🎲 Odds via</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
@@ -719,38 +159,38 @@
     <live />
   </programme>
   <programme start="20261116005500 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873063">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 San Francisco 49ers @ Dallas Cowboys | ⏳ Awaiting the official final result | 🏟️ AT&amp;T Stadium</desc>
+    <title lang="en">FINAL: 49ers 46 – Cowboys 40</title>
+    <desc lang="en">San Francisco 49ers 46, Dallas Cowboys 40. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
     <icon src="https://game-thumbs.swvn.io/nfl/SanFrancisco49ers/DallasCowboys/logo.png?style=4&amp;fallback=true" />
   </programme>
   <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873063">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 San Francisco 49ers @ Dallas Cowboys | ⏳ Awaiting the official final result | 🏟️ AT&amp;T Stadium</desc>
+    <title lang="en">FINAL: 49ers 46 – Cowboys 40</title>
+    <desc lang="en">San Francisco 49ers 46, Dallas Cowboys 40. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
     <icon src="https://game-thumbs.swvn.io/nfl/SanFrancisco49ers/DallasCowboys/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873063">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 San Francisco 49ers @ Dallas Cowboys | ⏳ Awaiting the official final result | 🏟️ AT&amp;T Stadium</desc>
+  <programme start="20261116120000 +0000" stop="20261116180000 +0000" channel="teamarr-event-401873063">
+    <title lang="en">FINAL: 49ers 46 – Cowboys 40</title>
+    <desc lang="en">San Francisco 49ers 46, Dallas Cowboys 40. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
     <icon src="https://game-thumbs.swvn.io/nfl/SanFrancisco49ers/DallasCowboys/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261115100037 +0000" stop="20261115110000 +0000" channel="teamarr-event-401873064">
-    <title lang="en">Today @ 8:20 PM EST: Steelers @ Bengals</title>
-    <desc lang="en">Steelers and Bengals meet for AFC North lead on Sunday night, both 6-2</desc>
+  <programme start="20261116180000 +0000" stop="20261116220021 +0000" channel="teamarr-event-401873063">
+    <title lang="en">FINAL: 49ers 46 – Cowboys 40</title>
+    <desc lang="en">San Francisco 49ers 46, Dallas Cowboys 40. Final. Score checked 2026-11-16 03:59 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/PittsburghSteelers/CincinnatiBengals/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/SanFrancisco49ers/DallasCowboys/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261115110000 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873064">
+  <programme start="20261115160021 +0000" stop="20261115170000 +0000" channel="teamarr-event-401873064">
     <title lang="en">Today @ 8:20 PM EST: Steelers @ Bengals</title>
     <desc lang="en">Steelers and Bengals meet for AFC North lead on Sunday night, both 6-2</desc>
     <category lang="en">Sports</category>
@@ -785,7 +225,7 @@
     <live />
   </programme>
   <programme start="20261116045000 +0000" stop="20261116060000 +0000" channel="teamarr-event-401873064">
-    <title lang="en">Final score pending</title>
+    <title lang="en">Game in progress — final pending</title>
     <desc lang="en">🏈 Pittsburgh Steelers @ Cincinnati Bengals | ⏳ Awaiting the official final result | 🏟️ Paycor Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
@@ -793,15 +233,23 @@
     <icon src="https://game-thumbs.swvn.io/nfl/PittsburghSteelers/CincinnatiBengals/logo.png?style=4&amp;fallback=true" />
   </programme>
   <programme start="20261116060000 +0000" stop="20261116120000 +0000" channel="teamarr-event-401873064">
-    <title lang="en">Final score pending</title>
+    <title lang="en">Game in progress — final pending</title>
     <desc lang="en">🏈 Pittsburgh Steelers @ Cincinnati Bengals | ⏳ Awaiting the official final result | 🏟️ Paycor Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
     <icon src="https://game-thumbs.swvn.io/nfl/PittsburghSteelers/CincinnatiBengals/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261116120000 +0000" stop="20261116160037 +0000" channel="teamarr-event-401873064">
-    <title lang="en">Final score pending</title>
+  <programme start="20261116120000 +0000" stop="20261116180000 +0000" channel="teamarr-event-401873064">
+    <title lang="en">Game in progress — final pending</title>
+    <desc lang="en">🏈 Pittsburgh Steelers @ Cincinnati Bengals | ⏳ Awaiting the official final result | 🏟️ Paycor Stadium</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <category lang="en">Nfl Gamepass</category>
+    <icon src="https://game-thumbs.swvn.io/nfl/PittsburghSteelers/CincinnatiBengals/logo.png?style=4&amp;fallback=true" />
+  </programme>
+  <programme start="20261116180000 +0000" stop="20261116220021 +0000" channel="teamarr-event-401873064">
+    <title lang="en">Game in progress — final pending</title>
     <desc lang="en">🏈 Pittsburgh Steelers @ Cincinnati Bengals | ⏳ Awaiting the official final result | 🏟️ Paycor Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
