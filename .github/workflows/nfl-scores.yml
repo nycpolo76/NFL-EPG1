@@ -34,12 +34,31 @@ jobs:
           path: scores-output/
           retention-days: 3
       - name: Update hosted guide files
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add scores-output/nfl-scores.xml scores-output/nfl-scores.xml.gz
-          if ! git diff --cached --quiet; then
+          # Preserve the freshly generated output outside this disposable checkout.
+          guide_stage="$(mktemp -d)"
+          cp scores-output/nfl-scores.xml scores-output/nfl-scores.xml.gz "$guide_stage/"
+          trap 'rm -rf "$guide_stage"' EXIT
+          for attempt in 1 2 3; do
+            # Start from the current remote commit instead of merging generated files.
+            git fetch origin main
+            git reset --hard origin/main
+            mkdir -p scores-output
+            cp "$guide_stage/nfl-scores.xml" "$guide_stage/nfl-scores.xml.gz" scores-output/
+            git add scores-output/nfl-scores.xml scores-output/nfl-scores.xml.gz
+            if git diff --cached --quiet; then
+              echo "Hosted guide is already current."
+              exit 0
+            fi
             git commit -m "Update NFL final scores"
-            git pull --rebase origin main
-            git push
-          fi
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Remote changed during save; retrying ($attempt/3)."
+          done
+          echo "::error::Could not publish guide after three attempts."
+          exit 1
