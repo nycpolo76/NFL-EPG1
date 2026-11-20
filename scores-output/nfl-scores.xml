@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="NFL Final Scores">
-  <channel id="teamarr-event-401873065">
-    <display-name>Los Angeles Chargers @ Baltimore Ravens</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesChargers/BaltimoreRavens/logo.png?style=4&amp;fallback=true" />
+  <channel id="teamarr-event-401873066">
+    <display-name>Indianapolis Colts @ Houston Texans</display-name>
+    <icon src="https://game-thumbs.swvn.io/nfl/IndianapolisColts/HoustonTexans/logo.png?style=4&amp;fallback=true" />
   </channel>
-  <programme start="20261116180018 +0000" stop="20261116230000 +0000" channel="teamarr-event-401873065">
-    <title lang="en">Today @ 8:15 PM EST: Chargers @ Ravens</title>
-    <desc lang="en">Reunion for Jim Harbaugh and Jesse Minter comes with both the Chargers and Ravens spiraling</desc>
+  <programme start="20261119180024 +0000" stop="20261119230000 +0000" channel="teamarr-event-401873066">
+    <title lang="en">Today @ 8:15 PM EST: Colts @ Texans</title>
+    <desc lang="en">Stroud: Texans' home skid and 17-point collapse fuel 'scary' urgency vs Colts</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesChargers/BaltimoreRavens/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/IndianapolisColts/HoustonTexans/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261116230000 +0000" stop="20261117011500 +0000" channel="teamarr-event-401873065">
-    <title lang="en">Today @ 8:15 PM EST: Chargers @ Ravens</title>
-    <desc lang="en">Reunion for Jim Harbaugh and Jesse Minter comes with both the Chargers and Ravens spiraling</desc>
+  <programme start="20261119230000 +0000" stop="20261120011500 +0000" channel="teamarr-event-401873066">
+    <title lang="en">Today @ 8:15 PM EST: Colts @ Texans</title>
+    <desc lang="en">Stroud: Texans' home skid and 17-point collapse fuel 'scary' urgency vs Colts</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesChargers/BaltimoreRavens/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/IndianapolisColts/HoustonTexans/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261117011500 +0000" stop="20261117044500 +0000" channel="teamarr-event-401873065">
-    <title lang="en">Los Angeles Chargers @ Baltimore Ravens</title>
-    <sub-title lang="en">Mon 8:15 PM EST | ESPN | M&amp;T Bank Stadium | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 Reunion for Jim Harbaugh and Jesse Minter comes with both the Chargers and Ravens spiraling | 📊 Chargers (0-8) @ Ravens (4-5) | 📺 ESPN</desc>
+  <programme start="20261120011500 +0000" stop="20261120044500 +0000" channel="teamarr-event-401873066">
+    <title lang="en">Indianapolis Colts @ Houston Texans</title>
+    <sub-title lang="en">Thu 8:15 PM EST | Prime Video | Reliant Stadium | 🎲 Betting: Odds via</sub-title>
+    <desc lang="en">🏈 Stroud: Texans' home skid and 17-point collapse fuel 'scary' urgency vs Colts | 📊 Colts (3-7) @ Texans (3-6) | 📺 Prime Video</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesChargers/BaltimoreRavens/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/IndianapolisColts/HoustonTexans/logo.png?style=4&amp;fallback=true" />
     <live />
   </programme>
-  <programme start="20261117044500 +0000" stop="20261117060000 +0000" channel="teamarr-event-401873065">
+  <programme start="20261120044500 +0000" stop="20261120060000 +0000" channel="teamarr-event-401873066">
     <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Los Angeles Chargers @ Baltimore Ravens | ⏳ Awaiting the official final result | 🏟️ M&amp;T Bank Stadium</desc>
+    <desc lang="en">🏈 Indianapolis Colts @ Houston Texans | ⏳ Awaiting the official final result | 🏟️ Reliant Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesChargers/BaltimoreRavens/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/IndianapolisColts/HoustonTexans/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261117060000 +0000" stop="20261117120000 +0000" channel="teamarr-event-401873065">
+  <programme start="20261120060000 +0000" stop="20261120120000 +0000" channel="teamarr-event-401873066">
     <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Los Angeles Chargers @ Baltimore Ravens | ⏳ Awaiting the official final result | 🏟️ M&amp;T Bank Stadium</desc>
+    <desc lang="en">🏈 Indianapolis Colts @ Houston Texans | ⏳ Awaiting the official final result | 🏟️ Reliant Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesChargers/BaltimoreRavens/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/IndianapolisColts/HoustonTexans/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261117120000 +0000" stop="20261117180000 +0000" channel="teamarr-event-401873065">
+  <programme start="20261120120000 +0000" stop="20261120180000 +0000" channel="teamarr-event-401873066">
     <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Los Angeles Chargers @ Baltimore Ravens | ⏳ Awaiting the official final result | 🏟️ M&amp;T Bank Stadium</desc>
+    <desc lang="en">🏈 Indianapolis Colts @ Houston Texans | ⏳ Awaiting the official final result | 🏟️ Reliant Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesChargers/BaltimoreRavens/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/IndianapolisColts/HoustonTexans/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261117180000 +0000" stop="20261118000000 +0000" channel="teamarr-event-401873065">
+  <programme start="20261120180000 +0000" stop="20261121000000 +0000" channel="teamarr-event-401873066">
     <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Los Angeles Chargers @ Baltimore Ravens | ⏳ Awaiting the official final result | 🏟️ M&amp;T Bank Stadium</desc>
+    <desc lang="en">🏈 Indianapolis Colts @ Houston Texans | ⏳ Awaiting the official final result | 🏟️ Reliant Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesChargers/BaltimoreRavens/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/IndianapolisColts/HoustonTexans/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261118000000 +0000" stop="20261118000018 +0000" channel="teamarr-event-401873065">
+  <programme start="20261121000000 +0000" stop="20261121000024 +0000" channel="teamarr-event-401873066">
     <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Los Angeles Chargers @ Baltimore Ravens | ⏳ Awaiting the official final result | 🏟️ M&amp;T Bank Stadium</desc>
+    <desc lang="en">🏈 Indianapolis Colts @ Houston Texans | ⏳ Awaiting the official final result | 🏟️ Reliant Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/LosAngelesChargers/BaltimoreRavens/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/IndianapolisColts/HoustonTexans/logo.png?style=4&amp;fallback=true" />
   </programme>
 </tv>
