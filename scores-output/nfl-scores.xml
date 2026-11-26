@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="NFL Final Scores">
-  <channel id="teamarr-event-401873078">
-    <display-name>Cincinnati Bengals @ Washington Commanders</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/CincinnatiBengals/WashingtonCommanders/logo.png?style=4&amp;fallback=true" />
+  <channel id="teamarr-event-401873079">
+    <display-name>Green Bay Packers @ Los Angeles Rams</display-name>
+    <icon src="https://game-thumbs.swvn.io/nfl/GreenBayPackers/LosAngelesRams/logo.png?style=4&amp;fallback=true" />
   </channel>
-  <programme start="20261123190020 +0000" stop="20261123230000 +0000" channel="teamarr-event-401873078">
-    <title lang="en">Today @ 8:15 PM EST: Bengals @ Commanders</title>
-    <desc lang="en">Commanders' defense preparing for high-flying Bengals offense</desc>
+  <programme start="20261125130020 +0000" stop="20261125170000 +0000" channel="teamarr-event-401873079">
+    <title lang="en">Today @ 8:00 PM EST: Packers @ Rams</title>
+    <desc lang="en">Myles Garrett, Micah Parsons ready for spotlight when Rams host Packers on Thanksgiving Eve</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CincinnatiBengals/WashingtonCommanders/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/GreenBayPackers/LosAngelesRams/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261123230000 +0000" stop="20261124011500 +0000" channel="teamarr-event-401873078">
-    <title lang="en">Today @ 8:15 PM EST: Bengals @ Commanders</title>
-    <desc lang="en">Commanders' defense preparing for high-flying Bengals offense</desc>
+  <programme start="20261125170000 +0000" stop="20261125230000 +0000" channel="teamarr-event-401873079">
+    <title lang="en">Today @ 8:00 PM EST: Packers @ Rams</title>
+    <desc lang="en">Myles Garrett, Micah Parsons ready for spotlight when Rams host Packers on Thanksgiving Eve</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CincinnatiBengals/WashingtonCommanders/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/GreenBayPackers/LosAngelesRams/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261124011500 +0000" stop="20261124044500 +0000" channel="teamarr-event-401873078">
-    <title lang="en">Cincinnati Bengals @ Washington Commanders</title>
-    <sub-title lang="en">Mon 8:15 PM EST | ESPN | Northwest Stadium | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 Commanders' defense preparing for high-flying Bengals offense | 📊 Bengals (7-2) @ Commanders (3-5-1) | 📺 ESPN</desc>
+  <programme start="20261125230000 +0000" stop="20261126010000 +0000" channel="teamarr-event-401873079">
+    <title lang="en">Today @ 8:00 PM EST: Packers @ Rams</title>
+    <desc lang="en">Myles Garrett, Micah Parsons ready for spotlight when Rams host Packers on Thanksgiving Eve</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <category lang="en">Nfl Gamepass</category>
+    <icon src="https://game-thumbs.swvn.io/nfl/GreenBayPackers/LosAngelesRams/logo.png?style=4&amp;fallback=true" />
+  </programme>
+  <programme start="20261126010000 +0000" stop="20261126043000 +0000" channel="teamarr-event-401873079">
+    <title lang="en">Green Bay Packers @ Los Angeles Rams</title>
+    <sub-title lang="en">Wed 8:00 PM EST | Netflix | SoFi Stadium | 🎲 Betting: Odds via</sub-title>
+    <desc lang="en">🏈 Myles Garrett, Micah Parsons ready for spotlight when Rams host Packers on Thanksgiving Eve | 📊 Packers (6-4) @ Rams (6-4) | 📺 Netflix</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CincinnatiBengals/WashingtonCommanders/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/GreenBayPackers/LosAngelesRams/logo.png?style=4&amp;fallback=true" />
     <live />
   </programme>
-  <programme start="20261124044500 +0000" stop="20261124060000 +0000" channel="teamarr-event-401873078">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Cincinnati Bengals @ Washington Commanders | ⏳ Awaiting the official final result | 🏟️ Northwest Stadium</desc>
+  <programme start="20261126043000 +0000" stop="20261126060000 +0000" channel="teamarr-event-401873079">
+    <title lang="en">Final score pending</title>
+    <desc lang="en">🏈 Green Bay Packers @ Los Angeles Rams | ⏳ Awaiting the official final result | 🏟️ SoFi Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CincinnatiBengals/WashingtonCommanders/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/GreenBayPackers/LosAngelesRams/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261124060000 +0000" stop="20261124120000 +0000" channel="teamarr-event-401873078">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Cincinnati Bengals @ Washington Commanders | ⏳ Awaiting the official final result | 🏟️ Northwest Stadium</desc>
+  <programme start="20261126060000 +0000" stop="20261126120000 +0000" channel="teamarr-event-401873079">
+    <title lang="en">Final score pending</title>
+    <desc lang="en">🏈 Green Bay Packers @ Los Angeles Rams | ⏳ Awaiting the official final result | 🏟️ SoFi Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CincinnatiBengals/WashingtonCommanders/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/GreenBayPackers/LosAngelesRams/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261124120000 +0000" stop="20261124180000 +0000" channel="teamarr-event-401873078">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Cincinnati Bengals @ Washington Commanders | ⏳ Awaiting the official final result | 🏟️ Northwest Stadium</desc>
+  <programme start="20261126120000 +0000" stop="20261126180000 +0000" channel="teamarr-event-401873079">
+    <title lang="en">Final score pending</title>
+    <desc lang="en">🏈 Green Bay Packers @ Los Angeles Rams | ⏳ Awaiting the official final result | 🏟️ SoFi Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CincinnatiBengals/WashingtonCommanders/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/GreenBayPackers/LosAngelesRams/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261124180000 +0000" stop="20261125000000 +0000" channel="teamarr-event-401873078">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Cincinnati Bengals @ Washington Commanders | ⏳ Awaiting the official final result | 🏟️ Northwest Stadium</desc>
+  <programme start="20261126180000 +0000" stop="20261126190020 +0000" channel="teamarr-event-401873079">
+    <title lang="en">Final score pending</title>
+    <desc lang="en">🏈 Green Bay Packers @ Los Angeles Rams | ⏳ Awaiting the official final result | 🏟️ SoFi Stadium</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CincinnatiBengals/WashingtonCommanders/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261125000000 +0000" stop="20261125010020 +0000" channel="teamarr-event-401873078">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Cincinnati Bengals @ Washington Commanders | ⏳ Awaiting the official final result | 🏟️ Northwest Stadium</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/CincinnatiBengals/WashingtonCommanders/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/GreenBayPackers/LosAngelesRams/logo.png?style=4&amp;fallback=true" />
   </programme>
 </tv>
