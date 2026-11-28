@@ -1,205 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="NFL Final Scores">
-  <channel id="teamarr-event-401873080">
-    <display-name>Philadelphia Eagles @ Dallas Cowboys</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/PhiladelphiaEagles/DallasCowboys/logo.png?style=4&amp;fallback=true" />
+  <channel id="teamarr-event-401873083">
+    <display-name>Denver Broncos @ Pittsburgh Steelers</display-name>
+    <icon src="https://game-thumbs.swvn.io/nfl/DenverBroncos/PittsburghSteelers/logo.png?style=4&amp;fallback=true" />
   </channel>
-  <channel id="teamarr-event-401873081">
-    <display-name>Chicago Bears @ Detroit Lions</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/ChicagoBears/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </channel>
-  <channel id="teamarr-event-401873082">
-    <display-name>Kansas City Chiefs @ Buffalo Bills</display-name>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/BuffaloBills/logo.png?style=4&amp;fallback=true" />
-  </channel>
-  <programme start="20261126130016 +0000" stop="20261126170000 +0000" channel="teamarr-event-401873080">
-    <title lang="en">Today @ 4:30 PM EST: Eagles @ Cowboys</title>
-    <desc lang="en">Cowboys really need back-to-back wins this time with rival Eagles visiting on Thanksgiving</desc>
+  <programme start="20261127130022 +0000" stop="20261127170000 +0000" channel="teamarr-event-401873083">
+    <title lang="en">Today @ 3:00 PM EST: Broncos @ Steelers</title>
+    <desc lang="en">The Steelers are turning to Mason Rudolph to salvage their season. It's not the first time</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/PhiladelphiaEagles/DallasCowboys/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/DenverBroncos/PittsburghSteelers/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261126170000 +0000" stop="20261126213000 +0000" channel="teamarr-event-401873080">
-    <title lang="en">Today @ 4:30 PM EST: Eagles @ Cowboys</title>
-    <desc lang="en">Cowboys really need back-to-back wins this time with rival Eagles visiting on Thanksgiving</desc>
+  <programme start="20261127170000 +0000" stop="20261127200000 +0000" channel="teamarr-event-401873083">
+    <title lang="en">Today @ 3:00 PM EST: Broncos @ Steelers</title>
+    <desc lang="en">The Steelers are turning to Mason Rudolph to salvage their season. It's not the first time</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/PhiladelphiaEagles/DallasCowboys/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/DenverBroncos/PittsburghSteelers/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261126213000 +0000" stop="20261127010000 +0000" channel="teamarr-event-401873080">
-    <title lang="en">Philadelphia Eagles @ Dallas Cowboys</title>
-    <sub-title lang="en">Thu 4:30 PM EST | Fox | AT&amp;T Stadium | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 Cowboys really need back-to-back wins this time with rival Eagles visiting on Thanksgiving | 📊 Eagles (3-7) @ Cowboys (5-6) | 📺 Fox</desc>
+  <programme start="20261127200000 +0000" stop="20261127233000 +0000" channel="teamarr-event-401873083">
+    <title lang="en">Denver Broncos @ Pittsburgh Steelers</title>
+    <sub-title lang="en">Fri 3:00 PM EST | Prime Video | Acrisure Stadium | 🎲 Betting: Odds via</sub-title>
+    <desc lang="en">🏈 The Steelers are turning to Mason Rudolph to salvage their season. It's not the first time | 📊 Broncos (8-2) @ Steelers (6-4) | 📺 Prime Video</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/PhiladelphiaEagles/DallasCowboys/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/DenverBroncos/PittsburghSteelers/logo.png?style=4&amp;fallback=true" />
     <live />
   </programme>
-  <programme start="20261127010000 +0000" stop="20261127060000 +0000" channel="teamarr-event-401873080">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Philadelphia Eagles @ Dallas Cowboys | ⏳ Awaiting the official final result | 🏟️ AT&amp;T Stadium</desc>
+  <programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="teamarr-event-401873083">
+    <title lang="en">FINAL: Broncos 5 – Steelers 27</title>
+    <desc lang="en">Denver Broncos 5, Pittsburgh Steelers 27. Final. Score checked 2026-11-28 00:02 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/PhiladelphiaEagles/DallasCowboys/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/DenverBroncos/PittsburghSteelers/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261127060000 +0000" stop="20261127120000 +0000" channel="teamarr-event-401873080">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Philadelphia Eagles @ Dallas Cowboys | ⏳ Awaiting the official final result | 🏟️ AT&amp;T Stadium</desc>
+  <programme start="20261128000000 +0000" stop="20261128060000 +0000" channel="teamarr-event-401873083">
+    <title lang="en">FINAL: Broncos 5 – Steelers 27</title>
+    <desc lang="en">Denver Broncos 5, Pittsburgh Steelers 27. Final. Score checked 2026-11-28 00:02 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/PhiladelphiaEagles/DallasCowboys/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/DenverBroncos/PittsburghSteelers/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261127120000 +0000" stop="20261127180000 +0000" channel="teamarr-event-401873080">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Philadelphia Eagles @ Dallas Cowboys | ⏳ Awaiting the official final result | 🏟️ AT&amp;T Stadium</desc>
+  <programme start="20261128060000 +0000" stop="20261128120000 +0000" channel="teamarr-event-401873083">
+    <title lang="en">FINAL: Broncos 5 – Steelers 27</title>
+    <desc lang="en">Denver Broncos 5, Pittsburgh Steelers 27. Final. Score checked 2026-11-28 00:02 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/PhiladelphiaEagles/DallasCowboys/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/DenverBroncos/PittsburghSteelers/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261127180000 +0000" stop="20261127190016 +0000" channel="teamarr-event-401873080">
-    <title lang="en">Game in progress — final pending</title>
-    <desc lang="en">🏈 Philadelphia Eagles @ Dallas Cowboys | ⏳ Awaiting the official final result | 🏟️ AT&amp;T Stadium</desc>
+  <programme start="20261128120000 +0000" stop="20261128180000 +0000" channel="teamarr-event-401873083">
+    <title lang="en">FINAL: Broncos 5 – Steelers 27</title>
+    <desc lang="en">Denver Broncos 5, Pittsburgh Steelers 27. Final. Score checked 2026-11-28 00:02 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/PhiladelphiaEagles/DallasCowboys/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/DenverBroncos/PittsburghSteelers/logo.png?style=4&amp;fallback=true" />
   </programme>
-  <programme start="20261126130016 +0000" stop="20261126170000 +0000" channel="teamarr-event-401873081">
-    <title lang="en">Today @ 1:00 PM EST: Bears @ Lions</title>
-    <desc lang="en">🏈 | 📺 TV: CBS | 🏟️ Venue: Ford Field, Detroit, MI | 📊 Betting Odds: | 🎲 Odds via</desc>
+  <programme start="20261128180000 +0000" stop="20261128190022 +0000" channel="teamarr-event-401873083">
+    <title lang="en">FINAL: Broncos 5 – Steelers 27</title>
+    <desc lang="en">Denver Broncos 5, Pittsburgh Steelers 27. Final. Score checked 2026-11-28 00:02 UTC.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/ChicagoBears/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261126170000 +0000" stop="20261126180000 +0000" channel="teamarr-event-401873081">
-    <title lang="en">Today @ 1:00 PM EST: Bears @ Lions</title>
-    <desc lang="en">🏈 | 📺 TV: CBS | 🏟️ Venue: Ford Field, Detroit, MI | 📊 Betting Odds: | 🎲 Odds via</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/ChicagoBears/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261126180000 +0000" stop="20261126213000 +0000" channel="teamarr-event-401873081">
-    <title lang="en">Chicago Bears @ Detroit Lions</title>
-    <sub-title lang="en">Thu 1:00 PM EST | CBS | Ford Field | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 Lions and Bears kick off NFL's Thanksgiving Day tripleheader, playing for first place in NFC North | 📊 Bears (8-2) @ Lions (8-2) | 📺 CBS</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/ChicagoBears/DetroitLions/logo.png?style=4&amp;fallback=true" />
-    <live />
-  </programme>
-  <programme start="20261126213000 +0000" stop="20261127000000 +0000" channel="teamarr-event-401873081">
-    <title lang="en">FINAL: Bears 39 – Lions 35</title>
-    <desc lang="en">Chicago Bears 39, Detroit Lions 35. Final. Score checked 2026-11-27 00:34 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/ChicagoBears/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127060000 +0000" channel="teamarr-event-401873081">
-    <title lang="en">FINAL: Bears 39 – Lions 35</title>
-    <desc lang="en">Chicago Bears 39, Detroit Lions 35. Final. Score checked 2026-11-27 00:34 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/ChicagoBears/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261127060000 +0000" stop="20261127120000 +0000" channel="teamarr-event-401873081">
-    <title lang="en">FINAL: Bears 39 – Lions 35</title>
-    <desc lang="en">Chicago Bears 39, Detroit Lions 35. Final. Score checked 2026-11-27 00:34 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/ChicagoBears/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261127120000 +0000" stop="20261127180000 +0000" channel="teamarr-event-401873081">
-    <title lang="en">FINAL: Bears 39 – Lions 35</title>
-    <desc lang="en">Chicago Bears 39, Detroit Lions 35. Final. Score checked 2026-11-27 00:34 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/ChicagoBears/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261127180000 +0000" stop="20261127190016 +0000" channel="teamarr-event-401873081">
-    <title lang="en">FINAL: Bears 39 – Lions 35</title>
-    <desc lang="en">Chicago Bears 39, Detroit Lions 35. Final. Score checked 2026-11-27 00:34 UTC.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/ChicagoBears/DetroitLions/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261126130016 +0000" stop="20261126170000 +0000" channel="teamarr-event-401873082">
-    <title lang="en">Today @ 8:20 PM EST: Chiefs @ Bills</title>
-    <desc lang="en">Allen and Mahomes renew their thrilling rivalry as the Bills host the Chiefs on Thanksgiving night</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/BuffaloBills/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261126170000 +0000" stop="20261126230000 +0000" channel="teamarr-event-401873082">
-    <title lang="en">Today @ 8:20 PM EST: Chiefs @ Bills</title>
-    <desc lang="en">Allen and Mahomes renew their thrilling rivalry as the Bills host the Chiefs on Thanksgiving night</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/BuffaloBills/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261126230000 +0000" stop="20261127012000 +0000" channel="teamarr-event-401873082">
-    <title lang="en">Today @ 8:20 PM EST: Chiefs @ Bills</title>
-    <desc lang="en">Allen and Mahomes renew their thrilling rivalry as the Bills host the Chiefs on Thanksgiving night</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/BuffaloBills/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261127012000 +0000" stop="20261127045000 +0000" channel="teamarr-event-401873082">
-    <title lang="en">Kansas City Chiefs @ Buffalo Bills</title>
-    <sub-title lang="en">Thu 8:20 PM EST | NBC | Highmark Stadium | 🎲 Betting: Odds via</sub-title>
-    <desc lang="en">🏈 Allen and Mahomes renew their thrilling rivalry as the Bills host the Chiefs on Thanksgiving night | 📊 Chiefs (8-2) @ Bills (9-1) | 📺 NBC</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">NFL Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/BuffaloBills/logo.png?style=4&amp;fallback=true" />
-    <live />
-  </programme>
-  <programme start="20261127045000 +0000" stop="20261127060000 +0000" channel="teamarr-event-401873082">
-    <title lang="en">Final score pending</title>
-    <desc lang="en">🏈 Kansas City Chiefs @ Buffalo Bills | ⏳ Awaiting the official final result | 🏟️ Highmark Stadium</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/BuffaloBills/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261127060000 +0000" stop="20261127120000 +0000" channel="teamarr-event-401873082">
-    <title lang="en">Final score pending</title>
-    <desc lang="en">🏈 Kansas City Chiefs @ Buffalo Bills | ⏳ Awaiting the official final result | 🏟️ Highmark Stadium</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/BuffaloBills/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261127120000 +0000" stop="20261127180000 +0000" channel="teamarr-event-401873082">
-    <title lang="en">Final score pending</title>
-    <desc lang="en">🏈 Kansas City Chiefs @ Buffalo Bills | ⏳ Awaiting the official final result | 🏟️ Highmark Stadium</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/BuffaloBills/logo.png?style=4&amp;fallback=true" />
-  </programme>
-  <programme start="20261127180000 +0000" stop="20261127190016 +0000" channel="teamarr-event-401873082">
-    <title lang="en">Final score pending</title>
-    <desc lang="en">🏈 Kansas City Chiefs @ Buffalo Bills | ⏳ Awaiting the official final result | 🏟️ Highmark Stadium</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <category lang="en">Nfl Gamepass</category>
-    <icon src="https://game-thumbs.swvn.io/nfl/KansasCityChiefs/BuffaloBills/logo.png?style=4&amp;fallback=true" />
+    <icon src="https://game-thumbs.swvn.io/nfl/DenverBroncos/PittsburghSteelers/logo.png?style=4&amp;fallback=true" />
   </programme>
 </tv>
